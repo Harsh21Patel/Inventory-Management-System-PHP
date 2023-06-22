@@ -1,11 +1,8 @@
 <html lang="en">
 <body>
     <h1>Inventory Management System</h1>
-
-    <h5>An inventory management system is built with PHP And MySQL to helps businesses effectively manage their inventory or stock of products.</h5>
-
-    <h5><a href="harsh-php.000webhostapp.com/">Live Demo</a></h5>
-
+  <h4>An inventory management system is built with PHP And MySQL to helps businesses effectively manage their inventory or stock of products.</h4>
+     <h5><a href="harsh-php.000webhostapp.com/">Live Demo</a></h5>
     <h3>This project was developed using the following:</h3>
 <ul>
     <li>XAMPP</li>
