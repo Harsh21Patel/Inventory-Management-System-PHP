@@ -1,4 +1,27 @@
 # Inventory-Management-System-PHP
-An inventory management system is a software application or a set of tools that helpsbusinesses effectively manage their inventory or stock of products. It provides businesseswith the means to track, control, and organize their inventory from the time it is receiveduntil
-it is sold or used. The main purpose of an inventory management system is to ensure that the right products areavailable in the right quantities at the right time, while minimizing costs and optimizingefficiency. It offers various features and functionalities to streamline the inventorycontrol
-process. Benefits of using an inventory management system include improved inventory accuracy, reduced stock outs and overstock situations, increased operational efficiency, better customerservice, and cost savings through optimized inventory lehttps://github.com/Harsh21Patel/Inventory-Management-System-PHP/blob/main/README.mdvels and reduced carrying costs.
+An inventory management system is built with PHP And MySQL to helps businesses effectively manage their inventory or stock of products.
+Live Url : harsh-php.000webhostapp.com/
+
+<h3>This project was developed using the following:</h3>
+XAMPP
+PHP
+MySQL Database
+HTML
+CSS
+Bootstrap
+
+How to Run ??
+Download and Install any local web server such as XAMPP.
+Download the provided source code.
+
+System Installation/Setup
+
+Open your XAMPP Control Panel and start Apache and MySQL.
+Extract the downloaded source code zip file.
+Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database naming "inventorymanagement".
+Import the provided SQL file. The file is known as inventorymanagement.sql located inside the database folder.
+Browse the Simple Inventory Management System in a browser. i.e. http://localhost/InventoryManagement/
+
+Enjoy :)
