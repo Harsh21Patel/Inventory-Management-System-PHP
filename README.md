@@ -1,4 +1,3 @@
-![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/5ccb518a-43fc-432c-80a8-acbf124d52c1)<html lang="en">
 <body>
     <h1>Inventory Management System</h1>
   <h4>An inventory management system is built with PHP And MySQL to helps businesses effectively manage their inventory or stock of products.</h4>
@@ -12,14 +11,11 @@
     <li>CSS</li>
     <li>Bootstrap</li>
   </ul>
-  <br>
     <h3>Screenshots:</h3>
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/718b818e-9573-4d3b-8f5c-264f724a9f52)
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/63ba17aa-1bdc-452b-8415-48766ad4b77f)
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/4ee8da6d-cbc5-404b-9639-230d17e76c09)
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/ece11256-af6f-4fc1-8cec-7f4a9cc56a01)
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/a2d74e02-a38e-40e1-b537-942cb47d35b5)
-    ![image](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/assets/103490245/73e7c31c-6d2a-4483-aff1-c40adbd7f083)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103490245/248442348-718b818e-9573-4d3b-8f5c-264f724a9f52.png" ">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103490245/248442355-ece11256-af6f-4fc1-8cec-7f4a9cc56a01.png" >
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103490245/248442356-63ba17aa-1bdc-452b-8415-48766ad4b77f.png" >
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103490245/248442359-4ee8da6d-cbc5-404b-9639-230d17e76c09.png">
 
 
 
