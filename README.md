@@ -10,7 +10,6 @@ Welcome to the Inventory Management System, a web application built using PHP to
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
